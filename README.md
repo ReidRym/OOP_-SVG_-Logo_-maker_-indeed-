@@ -67,4 +67,4 @@ GitHub: [ReidRym](https://github.com/ReidRym)
 
 
 ## Email
-Email: [at gmail.com](mailto:at gmail.com);
+Email: reidryanm@gmail.com
