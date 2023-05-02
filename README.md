@@ -31,8 +31,8 @@ The application enables users to enter inputs into a inquirer prompt in order to
 ## Installation
 1. Clone the repository: [OOP SVG Logo Maker Indeed!](https://github.com/ReidRym/https://github.com/ReidRym/OOP_-SVG_-Logo_-maker_-indeed-.git)
 2. Install the following: 
-- Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
-- Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
+- Node.JS [Version 18.16.0](https://nodejs.org/en/blog/release/v16.18.1/)
+- Jest [Version 29.5.0](https://www.npmjs.com/package/jest)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
 3. Open the cloned repository in any source code editor.
 4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2.) to ensure the cloned documentation will operate.
