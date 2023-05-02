@@ -64,6 +64,9 @@ MIT
  1.Video rendering a shape image
 https://drive.google.com/file/d/1j7fAe50u9iUBidDnRyihfGK6XYuWgxTr/view
 
+2. Video of repository passing Jest Test
+https://drive.google.com/file/d/1KAibGKgtyd8EbXHd3ylhk6gqZtNj6pUp/view
+
 ## Contributing
 install here
 
