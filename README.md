@@ -48,7 +48,7 @@ The application enables users to enter inputs into a inquirer prompt in order to
 
 8. Open the `logo.svg` file in a browser to view a 300x200 pixel image that matches the criteria entered.
 
-## license
+## License
 MIT
 
 ## Features  
