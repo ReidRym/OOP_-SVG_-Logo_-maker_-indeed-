@@ -3,7 +3,7 @@
 
 
 ## Description
-The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file which contains the users desired results as an SVG image.
+The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file. This file contains the users desired results as an SVG image.
 
 ## Table of Contents
 
@@ -20,16 +20,34 @@ The application enables users to enter inputs into a inquirer prompt in order to
 
 ## Installation
 1. Clone the repository: [OOP SVG Logo Maker Indeed!](https://github.com/ReidRym/https://github.com/ReidRym/OOP_-SVG_-Logo_-maker_-indeed-.git)
+
 2. Install the following: 
 - Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
+
 3. Open the cloned repository in any source code editor.
+
 4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2.) to ensure the cloned documentation will operate.
 
 
 ## Usage
-usage instructions here
+
+1. Download and install the logo generator command-line application. 
+
+2. Run the application from the command line. 
+
+3. When prompted for text, enter up to three characters. 
+
+4. When prompted for the text color, enter a color keyword or hexadecimal number.
+
+5. When prompted for a shape, select from the list of shapes: circle, triangle, and square.
+
+6. When prompted for the shape's color, enter a color keyword or hexadecimal number.
+
+7. After entering input for all the prompts, an SVG file named `logo.svg` will be created, and the output text "Generated logo.svg" will be printed in the command line.
+
+8. Open the `logo.svg` file in a browser to view a 300x200 pixel image that matches the criteria entered.
 
 ## license
 MIT
