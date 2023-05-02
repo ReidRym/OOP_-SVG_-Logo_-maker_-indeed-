@@ -1,7 +1,6 @@
 # OOP SVG LOGO MAKER INDEED!
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
 ## Description
 The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file. This file contains the users desired results as an SVG image.
 
@@ -54,16 +53,20 @@ MIT
 
 ## Features  
 
+Rendered Images of square, triangle, circle with text.
 ![square](https://user-images.githubusercontent.com/123789106/235745301-b10c29c3-863a-4eb2-bce5-267bbf1b5f48.JPG)
 
 ![triangle image](https://user-images.githubusercontent.com/123789106/235745382-c4b57221-5a9d-4daa-9b51-e0de01f1f730.JPG)
 
 ![Circle image](https://user-images.githubusercontent.com/123789106/235745493-70d0f7de-6101-46b6-a36e-42e12ac7443b.JPG)
 
+Answer questions in terminal when prompted
 ![Shapes Questions Image](https://user-images.githubusercontent.com/123789106/235800721-db310b43-e576-4d06-ba27-50c98b10824e.JPG)
 
+Rendered code for your shape from terminal.
 ![Image render 2](https://user-images.githubusercontent.com/123789106/235800754-a1e0bac8-1592-428d-9c32-fe1f9a7929fc.JPG)
 
+Rendered Image in Browser
 ![rendered image 3](https://user-images.githubusercontent.com/123789106/235800783-f3ba03de-2626-4617-a5d4-2f9b3d5f06bc.JPG)
 
 1.Video rendering a shape image
@@ -72,11 +75,8 @@ https://drive.google.com/file/d/1j7fAe50u9iUBidDnRyihfGK6XYuWgxTr/view
 2. Video of repository passing Jest Test
 https://drive.google.com/file/d/1KAibGKgtyd8EbXHd3ylhk6gqZtNj6pUp/view
 
-
 ## Tests  
 The application should be tested with Jest and any dependencies should be declared in the `package.json` file. The `package.json` file should also include a `start` script to run the application.
-
-
 
 ## Contact
 reidrym@gmail.com
