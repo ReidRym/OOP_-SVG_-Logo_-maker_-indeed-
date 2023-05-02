@@ -69,6 +69,7 @@ Rendered code for your shape from terminal.
 ![Image render 2](https://user-images.githubusercontent.com/123789106/235800754-a1e0bac8-1592-428d-9c32-fe1f9a7929fc.JPG)
 
 Rendered Image in Browser
+
 ![rendered image 3](https://user-images.githubusercontent.com/123789106/235800783-f3ba03de-2626-4617-a5d4-2f9b3d5f06bc.JPG)
 
 1.Video rendering a shape image
